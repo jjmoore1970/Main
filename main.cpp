@@ -3,6 +3,9 @@
 int main(){
     std::cout << "My git \n";
     std::cout << "Hello \n";
-    std::cout << "rex \n";   
+    std::cout << "rex \n";  
+    int rex {};
+    int peter {};
+
     return 0;
 }
