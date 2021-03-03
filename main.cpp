@@ -6,6 +6,7 @@ int main(){
     std::cout << "rex \n";  
     int rex {};
     int peter {};
+    double fred {10.1};
 
     return 0;
 }
